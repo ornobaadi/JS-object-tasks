@@ -1,5 +1,5 @@
 let myObject = {
-
+// Object Keys
     name: 'John Doe',
     age: 25,
     city: 'Example City',
